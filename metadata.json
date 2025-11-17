@@ -1,0 +1,7 @@
+{
+  "name": "Note de Frais CHU",
+  "description": "An application for hospital doctors to automatically compile their travel expense reports for reimbursement from a laboratory. Users can upload receipts (PDF/images), add their bank details (RIB), and generate a standardized expense report PDF.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
